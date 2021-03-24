@@ -17,5 +17,5 @@ A simple flowchart representing a process for dealing with a non-functioning lam
 
 ![Alt text](./images/flowchart.png?raw=true "Title")
 ### It's good implementation? What can be wrong with this code?
-[lamp algorithm implementation](lamp.md)
+[lamp algorithm implementation](lamp.py)
 
