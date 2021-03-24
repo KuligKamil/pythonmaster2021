@@ -1,9 +1,18 @@
 # functions
-## HOW WRITE FUNCTIONS? 
 
-what is programming? 
+## function definitions 
+Function is:
+* a statement or group of statements that together perform a task.
+* usually take data, process it, and return a result.  
+* the simpler tool for programmers to write [clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882).
 
-implementing algorithms, do step by step, instructions
+The clean code is code:
+* easy to understand.
+* easy to modify.
+* easy to test.
+* works correctly.
+
+functions vs algorithms
 
 Algorithm is a finite sequence of well-defined, computer-implementable instructions, typically to solve a class of problems or to 
 perform a computation.
