@@ -19,3 +19,4 @@ A simple flowchart representing a process for dealing with a non-functioning lam
 ### It's good implementation? What can be wrong with this code?
 [lamp algorithm implementation](lamp.py)
 
+>!This is hidden until your cursor hovers on top of it
